@@ -1,0 +1,18 @@
+{
+  "name": "scheme",
+  "version": "1.0.0",
+  "description": "Shape collection with SOLID principles",
+  "main": "shapes.ts",
+  "scripts": {
+    "start": "ts-node shapes.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Denr1xxx",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.0"
+  }
+}
